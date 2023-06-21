@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">Story App</string>
+    <string name="name">Name</string>
+    <string name="description">Description</string>
+    <string name="reset">Reset</string>
+    <string name="upload">Upload</string>
+    <string name="gallery">Gallery</string>
+    <string name="camera">Camera</string>
+    <string name="add_yours">Add yours</string>
+    <string name="login">Login</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="register">Register</string>
+    <string name="dont_have_account_yet">Don\'t have account yet?</string>
+    <string name="have_account_already">Have account already?</string>
+    <string name="sender_name">From %1$s</string>
+    <string name="logout">Logout</string>
+    <string name="welcome">Welcome %1$s!</string>
+    <string name="detail_story">Story Detail</string>
+    <string name="upload_story">Upload Story</string>
+    <string name="no_story_found">No story found</string>
+    <string name="image_is_required">Image is required!</string>
+    <string name="description_is_required">Description is required!</string>
+    <string name="title_activity_maps">MapsActivity</string>
+    <string name="maps">Maps</string>
+    <string name="stories_location">Stories Location</string>
+    <string name="try_again">Try Again</string>
+    <string name="timeout">Timeout</string>
+    <string name="upload_with_your_location">Upload with your location</string>
+</resources>
